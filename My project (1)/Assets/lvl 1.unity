@@ -468,6 +468,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: interfaz pausa
       objectReference: {fileID: 0}
+    - target: {fileID: 3662831650888991595, guid: c3de3e6c3d9f6e4428e3ecfd664b7c85, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 1d33b56cbffcf1044a493668427aee35, type: 3}
     - target: {fileID: 4649111375945234731, guid: c3de3e6c3d9f6e4428e3ecfd664b7c85, type: 3}
       propertyPath: m_IsActive
       value: 0
