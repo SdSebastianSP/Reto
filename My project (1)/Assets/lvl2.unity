@@ -19471,7 +19471,7 @@ PrefabInstance:
       objectReference: {fileID: 8300000, guid: 2c256a314b632984096b3e76324f87c1, type: 3}
     - target: {fileID: 3662831650888991595, guid: c3de3e6c3d9f6e4428e3ecfd664b7c85, type: 3}
       propertyPath: m_PlayOnAwake
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4649111375945234731, guid: c3de3e6c3d9f6e4428e3ecfd664b7c85, type: 3}
       propertyPath: m_IsActive
@@ -20324,7 +20324,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5956531862021234047, guid: 769cb1136c39a6a43978ec7214f29bbc, type: 3}
       propertyPath: m_SortingOrder
-      value: 222
+      value: 221
       objectReference: {fileID: 0}
     - target: {fileID: 6854109633854598286, guid: 769cb1136c39a6a43978ec7214f29bbc, type: 3}
       propertyPath: m_PlayOnAwake
@@ -25297,7 +25297,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1198332283}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.72, y: -1.08, z: -7.4855905}
+  m_LocalPosition: {x: 1.75, y: -0.59, z: -7.4855905}
   m_LocalScale: {x: 0.74855906, y: 0.74855906, z: 0.74855906}
   m_ConstrainProportionsScale: 0
   m_Children: []
