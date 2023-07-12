@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -147,7 +147,4039 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1852
+        width: 169
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290fdc890310d04292ad971ca8dfdc4
+      internalID: -97044511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b53d578033f30428744699dc2ccc5f
+      internalID: 1126348868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fb2746da8e2d14cbbda8d8862aade1
+      internalID: 713883189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994ab1ca68b5ecb4aa684583412b2f43
+      internalID: 631323133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98c600a222c09347b81c2c9d18a6149
+      internalID: 251629904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5533ead558c0b95468005a632cc8b55a
+      internalID: 1762607128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff797fb90bf300f4c81b79f76532ffea
+      internalID: -1427212999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1850
+        width: 170
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962b49cdd59f6d4e89f5bf18c07007b
+      internalID: 608171618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1849
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4a3b34e198192459ed635909e301a2
+      internalID: -42083362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1849
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7525983743516d44697dadfba6cdabc7
+      internalID: -1369036693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 1849
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d76c549fa00b494681766febd4f9eb5
+      internalID: 1857138941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1849
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669fa38ca614efd4184d0afd75e2282c
+      internalID: 1565051046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1849
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a4b6be9efd8ec4c845c83176db78cb
+      internalID: 1824371150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 3326
+        y: 1849
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6df8a33d72032d4893f8f9e1d763482
+      internalID: 1006426011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 1849
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c438041a8925e76499faf37a8133192b
+      internalID: -1629279087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 1849
+        width: 170
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc856cbc55be8d48859e1bf2700e1aa
+      internalID: 2044850379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 1850
+        width: 170
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb19ee2ae430394bb6c0f966a4c9b09
+      internalID: -1161373496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b35c1f4e1dab4c4d8d59eadad24e53a
+      internalID: 1919215279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce621e3cf70509049983884fe2bc9ebe
+      internalID: 1496083336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 4862
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2c415877a683949b491461cc8d3006
+      internalID: 1008220412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 5117
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ef60120d751f84c9d2e379b1732aa6
+      internalID: 1230742559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 5375
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88ee02b8e0e06b4087cb9ade1d97ccc
+      internalID: 308731876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 1852
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380794c545614e542a10e3911d1a6ca9
+      internalID: 1767197728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 5885
+        y: 1852
+        width: 259
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23efe2bedaaa7844795886c629716453
+      internalID: 1031911022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1588
+        width: 56
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33efabc61826ee44c88c9686e2fda4cd
+      internalID: 103491012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1588
+        width: 56
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da794bba20af6234bad2115ba3c88bde
+      internalID: -1758356050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1591
+        width: 56
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fb76d4ce1049a4e86b03e5cf3bb8af
+      internalID: 1571788038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1591
+        width: 56
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d252ade86db145a7fa158813a1d49
+      internalID: -2099616659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1594
+        width: 56
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe1d346cbd70a4387cb9a0ce061d4e
+      internalID: -875325758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1597
+        width: 53
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154399b324d52ed488c7caef2d72b29a
+      internalID: -1955777075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 1597
+        width: 53
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a301fb34e48f74c83e3d33a56e67dc
+      internalID: -1362885403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1597
+        width: 50
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0581b7418044ff409c40c8eddacb8a1
+      internalID: -620770238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_32
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 1594
+        width: 50
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bfc6d868e2273479a4ed5e2fa6450c
+      internalID: -1183804916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_33
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1591
+        width: 50
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9c8badfd4b1394e9f14133531a63de
+      internalID: -1131720464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_34
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1588
+        width: 50
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a210da5fcc644d428227103b8cac2ec
+      internalID: 1304750043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_35
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 1588
+        width: 50
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ff70e7f0ead7438d53847d56a0be8
+      internalID: 1810549997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_36
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 1588
+        width: 50
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e4d4d68b18ae48ac29378ae2442ce
+      internalID: 1132192565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_37
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 1591
+        width: 50
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a605453db711a6498bfb0ab8327b8d3
+      internalID: 400086880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_38
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 1591
+        width: 50
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85dceba9e2812a47a7e8f873d382f84
+      internalID: 1075553170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_39
+      rect:
+        serializedVersion: 2
+        x: 3938
+        y: 1594
+        width: 53
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd13713614e09e742bf67b630badf5b3
+      internalID: 1150578132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_40
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 1597
+        width: 50
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a518920436dbfce4f90ae08d460a656e
+      internalID: 1846514398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_41
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 1597
+        width: 53
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a4611abfa37a40829aa45c84b9782
+      internalID: 607885765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_42
+      rect:
+        serializedVersion: 2
+        x: 4706
+        y: 1597
+        width: 53
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba0e49e6e7b534db385b09ffeb7011
+      internalID: -110857289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_43
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 1594
+        width: 56
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4017fb4cf121c247a6d881b0d034cac
+      internalID: 1004802964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_44
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 1591
+        width: 55
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f5be6478fe9b1499e94cbe28759cd9
+      internalID: -720795388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_45
+      rect:
+        serializedVersion: 2
+        x: 5474
+        y: 1589
+        width: 56
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9154d478d5097e489da18ea45a7dc6a
+      internalID: 448039430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_46
+      rect:
+        serializedVersion: 2
+        x: 5729
+        y: 1588
+        width: 56
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ffb105da0947742b39541581b98ace
+      internalID: 446701273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_47
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 1588
+        width: 56
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43496d779d49424cac22959fb68a323
+      internalID: -1777268425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_48
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1339
+        width: 143
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ddc14e15c9984ca24763861bae715
+      internalID: 508140368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_49
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1339
+        width: 143
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b69c1ae079aa54b9aca29486037636
+      internalID: -399246855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_50
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1340
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c742ff2cc76903a49b7b5768e83e6d56
+      internalID: -1876587205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_51
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1342
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38845540939418e41a1d25eb869d4d05
+      internalID: -540467181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_52
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1342
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92649c6487ce1ae478788099ea419041
+      internalID: 2059198488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_53
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1342
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48d70d4de2334e448c96cafc8ed6b46
+      internalID: -1769438934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_54
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1339
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f81ae77276624db5e54cce932148a
+      internalID: 1745266893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_55
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1336
+        width: 143
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6d70f935f9f4c4c9531db6420186cd
+      internalID: 1885826882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_56
+      rect:
+        serializedVersion: 2
+        x: 2072
+        y: 1333
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04bad43f24d845419796dbad6bf1f54
+      internalID: -755156802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_57
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1333
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aeef9d61c3f7f45bb606cc3b47e82a
+      internalID: 566719993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_58
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 1330
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea5790e1ef576c47b09f1895669deb8
+      internalID: -1785767763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_59
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1330
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f029b740b231459c8e609ce0dcaed
+      internalID: 157947732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_60
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1330
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05a1180f0e37514a81893e29f99cb38
+      internalID: 232829728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_61
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 1333
+        width: 143
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774f960117492dd46b35c4dbeadc4860
+      internalID: -1718348902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_62
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 1333
+        width: 140
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5baedb37dcbdf342ba7ebb6be7833b0
+      internalID: -315869531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_63
+      rect:
+        serializedVersion: 2
+        x: 3863
+        y: 1336
+        width: 140
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7416bed60b8544ebc33e741f1e3593
+      internalID: -2111321428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_64
+      rect:
+        serializedVersion: 2
+        x: 4118
+        y: 1336
+        width: 143
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec99280d14a17a74792e2669916c83cd
+      internalID: 967506997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_65
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 1339
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ce76a1d3ece149a32e630c8c71681
+      internalID: -1041033530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_66
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 1342
+        width: 142
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a3fd953e7b9c14595decea2e8b8839
+      internalID: -470055329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_67
+      rect:
+        serializedVersion: 2
+        x: 4886
+        y: 1342
+        width: 143
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d18f0579f22124c93d0ca65685bf33
+      internalID: -1466123253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_68
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 1342
+        width: 140
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d261891e78eda1549b761ed57022e5ec
+      internalID: 602921604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_69
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 1340
+        width: 143
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cec3e7afe9041e4aa56878b8bb30e59
+      internalID: 199664525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_70
+      rect:
+        serializedVersion: 2
+        x: 5654
+        y: 1339
+        width: 143
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a5d057c78f1694f83fa52e2da0df95
+      internalID: -765809431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_71
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 1339
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9218006fc263f46a13dba7acb9b3eb
+      internalID: -770061728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_72
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1072
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7a1550e64f72544ac659849b0082e7
+      internalID: 1109392469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_73
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1072
+        width: 125
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d80397e4d78f143840323ac9a96c59
+      internalID: 1510700129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_74
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1075
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352aef4e72b628941836a495228c40e5
+      internalID: -1426055361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_75
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1075
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b29f3866aac1c468fc1ac30adf385b
+      internalID: 1223109095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_76
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1078
+        width: 125
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf2739e21fa094cad6342dd3e72d90
+      internalID: -896197103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_77
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1081
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39f948900850e6419c3bd9c4544f8f7
+      internalID: 875134096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_78
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1084
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a02e6978b05594bb27d6ebbbacf25c
+      internalID: -1909064190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_79
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1084
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122669be040fc0d49819b487981c3d0e
+      internalID: 1749048329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_80
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 1087
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ee1ac1df16e0241926df38037197bd
+      internalID: -1096234636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_81
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 1084
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a77d8e58f9d86942bf55ca2ff214a40
+      internalID: -1450569344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_82
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1084
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8743bac5ca77de4ebd55b656c231350
+      internalID: -571684679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_83
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1084
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef11192e13770eb48aaeb26e554dccc9
+      internalID: 1928018482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_84
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 1084
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ef0b2d5afaff47880e90ae8b65b34
+      internalID: -972030035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_85
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1084
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431a0c3b1a0f975449f4deb97abd60b6
+      internalID: -1943229066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_86
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1084
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0d9df47e4be594998dad7033e86ff2
+      internalID: -970969284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_87
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 1087
+        width: 122
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3a7658d6186cd45a06592e2fe8d37c
+      internalID: 389045089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_88
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 1084
+        width: 125
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d72ee522a0ccc348b1bfba750ad9b0b
+      internalID: -354713195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_89
+      rect:
+        serializedVersion: 2
+        x: 4442
+        y: 1081
+        width: 122
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad02a2524fe2f447923be1aae373a77
+      internalID: -990466263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_90
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 1078
+        width: 122
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd6c31a3a66b844487bfc9147ccc774
+      internalID: -2029286257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_91
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 1078
+        width: 125
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfe46d3d903c584bb6d04f4fb3a0356
+      internalID: -2081330185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_92
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 1075
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75688be281b21d64784d17ddc30b74e3
+      internalID: 851255084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_93
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 1075
+        width: 122
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3deb426a9b00488912fc43a5c4ab2
+      internalID: -463772476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_94
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 1072
+        width: 125
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347c0a1a17f98314fa00dd4a014afddc
+      internalID: -1075241747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_95
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 1072
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c89d53cdd924141a5115fd3e9643a3
+      internalID: 1580692336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_96
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 817
+        width: 56
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7068ab70ae22b408d238bb4bf220ab
+      internalID: 1586566898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_97
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 817
+        width: 56
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05454e98f042e547ad211100205809b
+      internalID: -1305798863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_98
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 820
+        width: 56
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed908c890d70eb5498c80e73f7a17eba
+      internalID: 457444308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_99
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 823
+        width: 53
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2682dd460b48c834cbc8baff3435cf68
+      internalID: -1521668315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_100
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 824
+        width: 56
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f20f7169ad3d674897a72137e470c74
+      internalID: 428532225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_101
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 829
+        width: 53
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a074f0345c3c74ab6ee68d362c32d5
+      internalID: 700466860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_102
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 829
+        width: 53
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799ad4cf87c62b14d86496ab12218410
+      internalID: -1242020653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_103
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 826
+        width: 50
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60621e1f15835fd4e8961fbdfb5757b8
+      internalID: -2119438138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_104
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 823
+        width: 53
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92996972317bc3444b1ace86bec79877
+      internalID: 912631001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_105
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 820
+        width: 50
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e06bd2137a4fe439aac9aaed121da0
+      internalID: -1370113234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_106
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 820
+        width: 50
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d65a390bf694047bd3bf149bdcca12
+      internalID: 1662940127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_107
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 819
+        width: 50
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e770af8d9ddf89648ae1b7e813ef8dd3
+      internalID: 1313575790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_108
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 820
+        width: 50
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddba81fa42df8fc409dc167a9b9a99ae
+      internalID: -762716436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_109
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 820
+        width: 50
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1d7cbacc6fdd346951343b49495ad5
+      internalID: -1264221971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_110
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 823
+        width: 52
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658759f3b6d84d84cafd0be5458c59cf
+      internalID: 1541440557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_111
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 823
+        width: 53
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018a6d5a60eba947ab6012170c8b0ba
+      internalID: 1034465642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_112
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 826
+        width: 50
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf02f6e0a9851e4d8a36b3e72c8579f
+      internalID: 1141327231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_113
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 829
+        width: 53
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc84f363b030aa9489edf662c6c9d036
+      internalID: 1312192604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_114
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 826
+        width: 53
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8dc6b6ac34ddc4bb29504593acdc21
+      internalID: -1503978517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_115
+      rect:
+        serializedVersion: 2
+        x: 4967
+        y: 823
+        width: 56
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb25c5361654ff4780487ebea970068
+      internalID: 908170980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_116
+      rect:
+        serializedVersion: 2
+        x: 5222
+        y: 820
+        width: 56
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada2581d625dbf4a81f51db6bfbf3ae
+      internalID: 289446590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_117
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 820
+        width: 56
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8388f6ab839c8c44890ee63331d619e
+      internalID: -968336875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_118
+      rect:
+        serializedVersion: 2
+        x: 5735
+        y: 817
+        width: 56
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b82babbb5d9e4fa0a4a3375685637
+      internalID: -1394127950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_119
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 817
+        width: 56
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be05da1d8b1df5149a271b4b8a27c49e
+      internalID: 304460402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_120
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 562
+        width: 122
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae720bc40c36b1d469424171128be9ec
+      internalID: -1198290403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_121
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 562
+        width: 125
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06437d5b3c73ea74c94b59426e059b98
+      internalID: -830837639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_122
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 562
+        width: 122
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbac6e9a83b8e846a8223bf1f28769e
+      internalID: 1347304646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_123
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 565
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7515b1e322c113e468a38008be89ce46
+      internalID: -221493252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_124
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 565
+        width: 125
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69d7cd6a5fe68348bcc37806b35950e
+      internalID: -1091969560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_125
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 568
+        width: 122
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4211470e56a41e84aa4dc6d3dcaaf823
+      internalID: 995476390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_126
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 571
+        width: 122
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951f6b9e50f2bb4d9a203032fb358f9
+      internalID: 1150479528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_127
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 574
+        width: 125
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4db379b4d9f8045b518eb1b546e442
+      internalID: -2086612936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_128
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 572
+        width: 122
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39930ecf79d73284397ab1563bba3426
+      internalID: -1895299100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_129
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 571
+        width: 122
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f2e07325d95244b6a286e2520889f
+      internalID: 58202289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_130
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 571
+        width: 125
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02691d2456a7c047b6784009d0b9a74
+      internalID: -196325840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_131
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 571
+        width: 122
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12815f2e124f1f4b91e75df0151fc41
+      internalID: -1073670118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_132
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 571
+        width: 122
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdd04a23534f1d4699209448739f73f
+      internalID: -1133399525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_133
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 571
+        width: 125
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9f317c01399af42af92a435211984c
+      internalID: -1558946888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_134
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 571
+        width: 122
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0a0b9e937d2c044803c846053325f7
+      internalID: -1637601196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_135
+      rect:
+        serializedVersion: 2
+        x: 3884
+        y: 574
+        width: 122
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffedf568263fcd42991ac480256da24
+      internalID: 842189692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_136
+      rect:
+        serializedVersion: 2
+        x: 4139
+        y: 571
+        width: 125
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3d139caf4d610479b8fc7326415604
+      internalID: 697000547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_137
+      rect:
+        serializedVersion: 2
+        x: 4397
+        y: 569
+        width: 122
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603de019a59b73b4f9c24d47ca6bf997
+      internalID: -1091727629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_138
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 568
+        width: 122
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c59dc767dcd194ab6bd75ca0d25e4a
+      internalID: -639778128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_139
+      rect:
+        serializedVersion: 2
+        x: 4907
+        y: 565
+        width: 125
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4877417b599cf40924c83d766e7504
+      internalID: 1402807865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_140
+      rect:
+        serializedVersion: 2
+        x: 5165
+        y: 565
+        width: 122
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cea8efbcbcace49aaf0983d4524077
+      internalID: 6164078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_141
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 562
+        width: 122
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86832fff4e0cbb64e976e3e0326c18ea
+      internalID: 1154996889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_142
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 562
+        width: 125
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcce8403ebf1042449d94060ed32726d
+      internalID: 907810679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_143
+      rect:
+        serializedVersion: 2
+        x: 5933
+        y: 562
+        width: 122
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b44546d1f333f347813e09f82f4eb3e
+      internalID: 1716232311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_144
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 310
+        width: 140
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807c4f6ca1af6d54aa5c717cd9120f85
+      internalID: -1814957699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_145
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 311
+        width: 143
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79565ee1d6ebacf489daa69a551d4e3c
+      internalID: -569228469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_146
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 313
+        width: 143
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fb8c405eb07ac408f675058d1c6691
+      internalID: -1284828624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_147
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 313
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c3a7f888dbd764db6087ae5d5de271
+      internalID: 1136618044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_148
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 316
+        width: 143
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d5ac80386c9e34dba16de90321436e
+      internalID: 1139456219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_149
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 314
+        width: 140
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72a277edf07761498ff14f5cfecf4ab
+      internalID: 1923091147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_150
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 313
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc8bcb34fdb4294dbf17795e8116bf5
+      internalID: 1613545721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_151
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 310
+        width: 143
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721ca3f90d7b6bd4d9fb3577079c28aa
+      internalID: -2134528646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_152
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 307
+        width: 140
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b29bb6d508080748864f1413740aa58
+      internalID: -198372974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_153
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 307
+        width: 140
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7435cc00f7132458498c36f49fc927
+      internalID: -1976775534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_154
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 304
+        width: 140
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9260ce2ebd74e3043ad2c35b1e3c9709
+      internalID: -85496528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_155
+      rect:
+        serializedVersion: 2
+        x: 2909
+        y: 304
+        width: 140
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa216f57475c4914e8f83c0e8cbf14e3
+      internalID: 1271441368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_156
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 304
+        width: 140
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24c948f63ee38f48aebba3d99385a6e
+      internalID: -723448527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_157
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 307
+        width: 140
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47690da1a11d73644b8a282b8d74fa81
+      internalID: 1621715954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_158
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 307
+        width: 140
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341fce8c1b298f04e9110ae0b2a0fc7e
+      internalID: -417474069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_159
+      rect:
+        serializedVersion: 2
+        x: 3932
+        y: 310
+        width: 140
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ce031dfd190c94aa4fad7d1a6c3ae7
+      internalID: 743331700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_160
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 310
+        width: 143
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816f045aa21ef114f9da12621c62ac9e
+      internalID: 1469483952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_161
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 313
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d17ce2c5bbb7a94dac6a77ed4a5b01b
+      internalID: 119766790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_162
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 316
+        width: 140
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426d18b472eeae47950990da6c92998
+      internalID: 2059974022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_163
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 316
+        width: 143
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8cd8a8dc7447440b308f56c982ac4b
+      internalID: -804557609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_164
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 313
+        width: 143
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424994512c9f72544a0a0bf127bb7293
+      internalID: 1811871488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_165
+      rect:
+        serializedVersion: 2
+        x: 5468
+        y: 313
+        width: 140
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae96efb63be49514d9155727ed972bc2
+      internalID: -1026484514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_166
+      rect:
+        serializedVersion: 2
+        x: 5723
+        y: 311
+        width: 143
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aa7d1ef8fb0e546a570fa32d44f0ec
+      internalID: 1105102012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_167
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 310
+        width: 143
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f7f42329ef95545aef8ee56fd6d782
+      internalID: 1305683272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 259
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab92aecd4627fb4aacaa2a05444b900
+      internalID: 447391078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_169
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61604599b634dae40b8d937d3c679a16
+      internalID: -1575528050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_170
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 56
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdc1162802a69042a22e7803d4b1bc6
+      internalID: -863146104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_171
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee0c12a61881545b95a0cba04950f2
+      internalID: 490836585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_172
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c121896d2279ee40a113414e1a3b45f
+      internalID: 1822844710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_173
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 56
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaf79911feeee54b80007716119837b
+      internalID: -17602304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_174
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76893ca5b4016044290260336e7f33b5
+      internalID: -1330796068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_175
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e947c6d91e64d014f875ec0db21b5f4d
+      internalID: -517907441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_176
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 56
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85bd9fc253b4b468c4862b422753ee
+      internalID: -231983863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_177
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eaaaf8299c6b542924fffc6bd629ef
+      internalID: 769048851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_178
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f07fc73b643649b257a00b30e136c
+      internalID: 1442300917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_179
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 56
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5c89bd6ba408d479035ffc6b172a42
+      internalID: -1517429403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_180
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95755cefdba74d4d96cadd921e1fac6
+      internalID: 498930143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_181
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31a28ae5c503e4db619d3061c58e66
+      internalID: -977103431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_182
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 56
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51930b876d958a44496e048f64cf1867
+      internalID: -2093755003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_183
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9113a036675bd9e49b435f543a285502
+      internalID: -1325981451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_184
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e50e8efb96d9f4599923a106c5b0a0
+      internalID: 1595417640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_185
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 56
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0bf5c91a7c5eb45b29c618a7fe53a5
+      internalID: -370772098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_186
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa22501aab06e944968e616e979d408
+      internalID: 1706670457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_187
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a52f737830bf42956d8d0db12d73a
+      internalID: 80472028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_188
+      rect:
+        serializedVersion: 2
+        x: 5207
+        y: 56
+        width: 173
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d37427c94b8a4487fa1461e8e5527
+      internalID: -975037595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_189
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a41b92ead46674f8bbc47c5aa89694
+      internalID: -1393493796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_190
+      rect:
+        serializedVersion: 2
+        x: 5720
+        y: 56
+        width: 170
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae173bf912790e4ca14ab6db8d7a924
+      internalID: 1093358331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Walk_191
+      rect:
+        serializedVersion: 2
+        x: 5975
+        y: 56
+        width: 169
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285b06f35146216499965f239ac47cf0
+      internalID: 2050507067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -158,7 +4190,199 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boss_Samurai_Walk_0: -97044511
+      Boss_Samurai_Walk_1: 1126348868
+      Boss_Samurai_Walk_10: 1857138941
+      Boss_Samurai_Walk_100: 428532225
+      Boss_Samurai_Walk_101: 700466860
+      Boss_Samurai_Walk_102: -1242020653
+      Boss_Samurai_Walk_103: -2119438138
+      Boss_Samurai_Walk_104: 912631001
+      Boss_Samurai_Walk_105: -1370113234
+      Boss_Samurai_Walk_106: 1662940127
+      Boss_Samurai_Walk_107: 1313575790
+      Boss_Samurai_Walk_108: -762716436
+      Boss_Samurai_Walk_109: -1264221971
+      Boss_Samurai_Walk_11: 1565051046
+      Boss_Samurai_Walk_110: 1541440557
+      Boss_Samurai_Walk_111: 1034465642
+      Boss_Samurai_Walk_112: 1141327231
+      Boss_Samurai_Walk_113: 1312192604
+      Boss_Samurai_Walk_114: -1503978517
+      Boss_Samurai_Walk_115: 908170980
+      Boss_Samurai_Walk_116: 289446590
+      Boss_Samurai_Walk_117: -968336875
+      Boss_Samurai_Walk_118: -1394127950
+      Boss_Samurai_Walk_119: 304460402
+      Boss_Samurai_Walk_12: 1824371150
+      Boss_Samurai_Walk_120: -1198290403
+      Boss_Samurai_Walk_121: -830837639
+      Boss_Samurai_Walk_122: 1347304646
+      Boss_Samurai_Walk_123: -221493252
+      Boss_Samurai_Walk_124: -1091969560
+      Boss_Samurai_Walk_125: 995476390
+      Boss_Samurai_Walk_126: 1150479528
+      Boss_Samurai_Walk_127: -2086612936
+      Boss_Samurai_Walk_128: -1895299100
+      Boss_Samurai_Walk_129: 58202289
+      Boss_Samurai_Walk_13: 1006426011
+      Boss_Samurai_Walk_130: -196325840
+      Boss_Samurai_Walk_131: -1073670118
+      Boss_Samurai_Walk_132: -1133399525
+      Boss_Samurai_Walk_133: -1558946888
+      Boss_Samurai_Walk_134: -1637601196
+      Boss_Samurai_Walk_135: 842189692
+      Boss_Samurai_Walk_136: 697000547
+      Boss_Samurai_Walk_137: -1091727629
+      Boss_Samurai_Walk_138: -639778128
+      Boss_Samurai_Walk_139: 1402807865
+      Boss_Samurai_Walk_14: -1629279087
+      Boss_Samurai_Walk_140: 6164078
+      Boss_Samurai_Walk_141: 1154996889
+      Boss_Samurai_Walk_142: 907810679
+      Boss_Samurai_Walk_143: 1716232311
+      Boss_Samurai_Walk_144: -1814957699
+      Boss_Samurai_Walk_145: -569228469
+      Boss_Samurai_Walk_146: -1284828624
+      Boss_Samurai_Walk_147: 1136618044
+      Boss_Samurai_Walk_148: 1139456219
+      Boss_Samurai_Walk_149: 1923091147
+      Boss_Samurai_Walk_15: 2044850379
+      Boss_Samurai_Walk_150: 1613545721
+      Boss_Samurai_Walk_151: -2134528646
+      Boss_Samurai_Walk_152: -198372974
+      Boss_Samurai_Walk_153: -1976775534
+      Boss_Samurai_Walk_154: -85496528
+      Boss_Samurai_Walk_155: 1271441368
+      Boss_Samurai_Walk_156: -723448527
+      Boss_Samurai_Walk_157: 1621715954
+      Boss_Samurai_Walk_158: -417474069
+      Boss_Samurai_Walk_159: 743331700
+      Boss_Samurai_Walk_16: -1161373496
+      Boss_Samurai_Walk_160: 1469483952
+      Boss_Samurai_Walk_161: 119766790
+      Boss_Samurai_Walk_162: 2059974022
+      Boss_Samurai_Walk_163: -804557609
+      Boss_Samurai_Walk_164: 1811871488
+      Boss_Samurai_Walk_165: -1026484514
+      Boss_Samurai_Walk_166: 1105102012
+      Boss_Samurai_Walk_167: 1305683272
+      Boss_Samurai_Walk_168: 447391078
+      Boss_Samurai_Walk_169: -1575528050
+      Boss_Samurai_Walk_17: 1919215279
+      Boss_Samurai_Walk_170: -863146104
+      Boss_Samurai_Walk_171: 490836585
+      Boss_Samurai_Walk_172: 1822844710
+      Boss_Samurai_Walk_173: -17602304
+      Boss_Samurai_Walk_174: -1330796068
+      Boss_Samurai_Walk_175: -517907441
+      Boss_Samurai_Walk_176: -231983863
+      Boss_Samurai_Walk_177: 769048851
+      Boss_Samurai_Walk_178: 1442300917
+      Boss_Samurai_Walk_179: -1517429403
+      Boss_Samurai_Walk_18: 1496083336
+      Boss_Samurai_Walk_180: 498930143
+      Boss_Samurai_Walk_181: -977103431
+      Boss_Samurai_Walk_182: -2093755003
+      Boss_Samurai_Walk_183: -1325981451
+      Boss_Samurai_Walk_184: 1595417640
+      Boss_Samurai_Walk_185: -370772098
+      Boss_Samurai_Walk_186: 1706670457
+      Boss_Samurai_Walk_187: 80472028
+      Boss_Samurai_Walk_188: -975037595
+      Boss_Samurai_Walk_189: -1393493796
+      Boss_Samurai_Walk_19: 1008220412
+      Boss_Samurai_Walk_190: 1093358331
+      Boss_Samurai_Walk_191: 2050507067
+      Boss_Samurai_Walk_2: 713883189
+      Boss_Samurai_Walk_20: 1230742559
+      Boss_Samurai_Walk_21: 308731876
+      Boss_Samurai_Walk_22: 1767197728
+      Boss_Samurai_Walk_23: 1031911022
+      Boss_Samurai_Walk_24: 103491012
+      Boss_Samurai_Walk_25: -1758356050
+      Boss_Samurai_Walk_26: 1571788038
+      Boss_Samurai_Walk_27: -2099616659
+      Boss_Samurai_Walk_28: -875325758
+      Boss_Samurai_Walk_29: -1955777075
+      Boss_Samurai_Walk_3: 631323133
+      Boss_Samurai_Walk_30: -1362885403
+      Boss_Samurai_Walk_31: -620770238
+      Boss_Samurai_Walk_32: -1183804916
+      Boss_Samurai_Walk_33: -1131720464
+      Boss_Samurai_Walk_34: 1304750043
+      Boss_Samurai_Walk_35: 1810549997
+      Boss_Samurai_Walk_36: 1132192565
+      Boss_Samurai_Walk_37: 400086880
+      Boss_Samurai_Walk_38: 1075553170
+      Boss_Samurai_Walk_39: 1150578132
+      Boss_Samurai_Walk_4: 251629904
+      Boss_Samurai_Walk_40: 1846514398
+      Boss_Samurai_Walk_41: 607885765
+      Boss_Samurai_Walk_42: -110857289
+      Boss_Samurai_Walk_43: 1004802964
+      Boss_Samurai_Walk_44: -720795388
+      Boss_Samurai_Walk_45: 448039430
+      Boss_Samurai_Walk_46: 446701273
+      Boss_Samurai_Walk_47: -1777268425
+      Boss_Samurai_Walk_48: 508140368
+      Boss_Samurai_Walk_49: -399246855
+      Boss_Samurai_Walk_5: 1762607128
+      Boss_Samurai_Walk_50: -1876587205
+      Boss_Samurai_Walk_51: -540467181
+      Boss_Samurai_Walk_52: 2059198488
+      Boss_Samurai_Walk_53: -1769438934
+      Boss_Samurai_Walk_54: 1745266893
+      Boss_Samurai_Walk_55: 1885826882
+      Boss_Samurai_Walk_56: -755156802
+      Boss_Samurai_Walk_57: 566719993
+      Boss_Samurai_Walk_58: -1785767763
+      Boss_Samurai_Walk_59: 157947732
+      Boss_Samurai_Walk_6: -1427212999
+      Boss_Samurai_Walk_60: 232829728
+      Boss_Samurai_Walk_61: -1718348902
+      Boss_Samurai_Walk_62: -315869531
+      Boss_Samurai_Walk_63: -2111321428
+      Boss_Samurai_Walk_64: 967506997
+      Boss_Samurai_Walk_65: -1041033530
+      Boss_Samurai_Walk_66: -470055329
+      Boss_Samurai_Walk_67: -1466123253
+      Boss_Samurai_Walk_68: 602921604
+      Boss_Samurai_Walk_69: 199664525
+      Boss_Samurai_Walk_7: 608171618
+      Boss_Samurai_Walk_70: -765809431
+      Boss_Samurai_Walk_71: -770061728
+      Boss_Samurai_Walk_72: 1109392469
+      Boss_Samurai_Walk_73: 1510700129
+      Boss_Samurai_Walk_74: -1426055361
+      Boss_Samurai_Walk_75: 1223109095
+      Boss_Samurai_Walk_76: -896197103
+      Boss_Samurai_Walk_77: 875134096
+      Boss_Samurai_Walk_78: -1909064190
+      Boss_Samurai_Walk_79: 1749048329
+      Boss_Samurai_Walk_8: -42083362
+      Boss_Samurai_Walk_80: -1096234636
+      Boss_Samurai_Walk_81: -1450569344
+      Boss_Samurai_Walk_82: -571684679
+      Boss_Samurai_Walk_83: 1928018482
+      Boss_Samurai_Walk_84: -972030035
+      Boss_Samurai_Walk_85: -1943229066
+      Boss_Samurai_Walk_86: -970969284
+      Boss_Samurai_Walk_87: 389045089
+      Boss_Samurai_Walk_88: -354713195
+      Boss_Samurai_Walk_89: -990466263
+      Boss_Samurai_Walk_9: -1369036693
+      Boss_Samurai_Walk_90: -2029286257
+      Boss_Samurai_Walk_91: -2081330185
+      Boss_Samurai_Walk_92: 851255084
+      Boss_Samurai_Walk_93: -463772476
+      Boss_Samurai_Walk_94: -1075241747
+      Boss_Samurai_Walk_95: 1580692336
+      Boss_Samurai_Walk_96: 1586566898
+      Boss_Samurai_Walk_97: -1305798863
+      Boss_Samurai_Walk_98: 457444308
+      Boss_Samurai_Walk_99: -1521668315
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

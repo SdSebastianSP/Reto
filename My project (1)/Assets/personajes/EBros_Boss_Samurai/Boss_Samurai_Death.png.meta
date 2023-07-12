@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -147,7 +147,1015 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 307
+        width: 56
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34034759ac9584f43bb09e07cb5cf566
+      internalID: 468363406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 325
+        width: 107
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45a394c1b29e7b409e1c2374973625a
+      internalID: -2147145445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 319
+        width: 170
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946dac912fcfa254c9a631ad1a6861c2
+      internalID: -947375750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 328
+        width: 158
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecbe3ae2754fa04eb09cf27b94bea42
+      internalID: 624736223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_4
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 289
+        width: 104
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989bc0f846817524dbf8448a4aaa8b7a
+      internalID: 56011204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_5
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 277
+        width: 80
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edebb64681e8124eb67347059e0caaf
+      internalID: -1140991829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_6
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 274
+        width: 86
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af09c905dae9a5499347b2cf1290bcb
+      internalID: 587897755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 271
+        width: 86
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9023c7ad48ee1441b293c7149c542b3
+      internalID: -1903886222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_8
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 271
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f873e7671e068409d52d7e2fa3ad83
+      internalID: -530890960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_9
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 271
+        width: 136
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1056f61a883ea3b4296b2e4c85a0701b
+      internalID: 196374767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_10
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 271
+        width: 149
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe4adfd0c08ad408ec16ca482b4278
+      internalID: 1727173041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_11
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 271
+        width: 155
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2cee7296a79994899ae460a7d98aca
+      internalID: -1357626418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_12
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 271
+        width: 154
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949cd86a0e20a4049ae10540d002f08f
+      internalID: -254369643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_13
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 271
+        width: 155
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731bccd3ceef6fb40bf5c1f6dd615622
+      internalID: 1323759506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_14
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 271
+        width: 155
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4a7bac0a28b9749ba2efe7ab1a652b
+      internalID: -1472071364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_15
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 271
+        width: 154
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cacea08361ffb45b5b6540ea2a0a8e
+      internalID: -1451189543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_16
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 271
+        width: 155
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa9b2651578afc4f935c60279d36256
+      internalID: 2478346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_17
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 271
+        width: 155
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc94b54c196d13449832c1434b1e3b46
+      internalID: -1723437901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_18
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 268
+        width: 155
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1040b1b04ccf57f44a70c1c8d11cdd8c
+      internalID: -395981632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_19
+      rect:
+        serializedVersion: 2
+        x: 4946
+        y: 268
+        width: 155
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16864f7f8228eae4d937bf2e6a838580
+      internalID: -1429914294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_20
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 265
+        width: 155
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abacc06bd501963419f84d93479d3723
+      internalID: -937955138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_21
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 265
+        width: 154
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a779fb7180c7841afcba3585b96171
+      internalID: 1631114358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_22
+      rect:
+        serializedVersion: 2
+        x: 5714
+        y: 262
+        width: 155
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf55ac8549af548b66d8494c637886
+      internalID: 2038246400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_23
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 262
+        width: 155
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e1c886fd2aa749ab22c70651ca1ec
+      internalID: -1167359360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 8
+        width: 155
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1badda9131e8542459421080c629b51c
+      internalID: 803659467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 5
+        width: 155
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aac4ea4af1f02478901f28cf953314
+      internalID: -1197927417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_26
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 5
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766f5d7eedcd36746ae4f4a67a7c9556
+      internalID: -355286404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98062b9d477384b4b8ad1429700833bd
+      internalID: -953035959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_28
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 2
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a6f1d68d6a97344ab9bc0389c03356
+      internalID: 1070403524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_29
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 5
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4405ddbb2fc1079448cecaf38c0b94a1
+      internalID: 20311562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_30
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 5
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb86ba4ff27ca342911b0b0a50b7bdb
+      internalID: 930434462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_31
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 2
+        width: 160
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6939b6a161e68ca4fa29407304a64ae5
+      internalID: 2071022939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_32
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 2
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccae6546eb77b8b49b07e8c1ee058fcf
+      internalID: 1831093641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_33
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 2
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec1c0c6314c4184399ac882a80fe076
+      internalID: -1011086058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_34
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 2
+        width: 158
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb11f1f76c60dfa4ca74b2610649808a
+      internalID: -429709991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_35
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 5
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb48d75bf799242bbf06aa73b64c04
+      internalID: 1217750464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_36
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 5
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2377128c7c9118947a1fb54e196c27a9
+      internalID: 253081319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_37
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 2
+        width: 161
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2653742c5bed10c44b8bded70f8405b0
+      internalID: 735624635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_38
+      rect:
+        serializedVersion: 2
+        x: 3665
+        y: 5
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd7c0e73bb370148a94265469206fbb
+      internalID: 450653934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_39
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 5
+        width: 156
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb76bd35dd8900479b0a0b7c9993f5f
+      internalID: -1685087409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_40
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 5
+        width: 157
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf523669db81847942144cc126e892
+      internalID: -1281082666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_41
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 5
+        width: 157
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55704272e815864384f8b7450181016
+      internalID: -2063030679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_42
+      rect:
+        serializedVersion: 2
+        x: 4688
+        y: 5
+        width: 158
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e3fe6d8bdf09e42828fe19a1ffd5a8
+      internalID: -1963306284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_43
+      rect:
+        serializedVersion: 2
+        x: 4946
+        y: 5
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa733bd33537b60438d6a4372a806ba3
+      internalID: -1165587851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_44
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 3
+        width: 155
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be21222e05d13604e9659a6f885ac26b
+      internalID: 1515017793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_45
+      rect:
+        serializedVersion: 2
+        x: 5459
+        y: 5
+        width: 155
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd19055c7a19764f80103d825278d6d
+      internalID: -1796413397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_46
+      rect:
+        serializedVersion: 2
+        x: 5717
+        y: 5
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba15af451f3e87d40857d85c09bdce0e
+      internalID: 828814494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Death_47
+      rect:
+        serializedVersion: 2
+        x: 6002
+        y: 112
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e73ad8b5ce6d14c917c63b754838f0
+      internalID: 9046063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -158,7 +1166,55 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boss_Samurai_Death_0: 468363406
+      Boss_Samurai_Death_1: -2147145445
+      Boss_Samurai_Death_10: 1727173041
+      Boss_Samurai_Death_11: -1357626418
+      Boss_Samurai_Death_12: -254369643
+      Boss_Samurai_Death_13: 1323759506
+      Boss_Samurai_Death_14: -1472071364
+      Boss_Samurai_Death_15: -1451189543
+      Boss_Samurai_Death_16: 2478346
+      Boss_Samurai_Death_17: -1723437901
+      Boss_Samurai_Death_18: -395981632
+      Boss_Samurai_Death_19: -1429914294
+      Boss_Samurai_Death_2: -947375750
+      Boss_Samurai_Death_20: -937955138
+      Boss_Samurai_Death_21: 1631114358
+      Boss_Samurai_Death_22: 2038246400
+      Boss_Samurai_Death_23: -1167359360
+      Boss_Samurai_Death_24: 803659467
+      Boss_Samurai_Death_25: -1197927417
+      Boss_Samurai_Death_26: -355286404
+      Boss_Samurai_Death_27: -953035959
+      Boss_Samurai_Death_28: 1070403524
+      Boss_Samurai_Death_29: 20311562
+      Boss_Samurai_Death_3: 624736223
+      Boss_Samurai_Death_30: 930434462
+      Boss_Samurai_Death_31: 2071022939
+      Boss_Samurai_Death_32: 1831093641
+      Boss_Samurai_Death_33: -1011086058
+      Boss_Samurai_Death_34: -429709991
+      Boss_Samurai_Death_35: 1217750464
+      Boss_Samurai_Death_36: 253081319
+      Boss_Samurai_Death_37: 735624635
+      Boss_Samurai_Death_38: 450653934
+      Boss_Samurai_Death_39: -1685087409
+      Boss_Samurai_Death_4: 56011204
+      Boss_Samurai_Death_40: -1281082666
+      Boss_Samurai_Death_41: -2063030679
+      Boss_Samurai_Death_42: -1963306284
+      Boss_Samurai_Death_43: -1165587851
+      Boss_Samurai_Death_44: 1515017793
+      Boss_Samurai_Death_45: -1796413397
+      Boss_Samurai_Death_46: 828814494
+      Boss_Samurai_Death_47: 9046063
+      Boss_Samurai_Death_5: -1140991829
+      Boss_Samurai_Death_6: 587897755
+      Boss_Samurai_Death_7: -1903886222
+      Boss_Samurai_Death_8: -530890960
+      Boss_Samurai_Death_9: 196374767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

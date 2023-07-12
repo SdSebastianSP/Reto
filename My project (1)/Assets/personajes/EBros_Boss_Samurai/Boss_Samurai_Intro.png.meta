@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -147,7 +147,511 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 59
+        width: 56
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a3fb2450e7cc4b8d49fa77f888800
+      internalID: -1854341429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 56
+        width: 62
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd2234349572043917035a941da15e
+      internalID: 144570690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 56
+        width: 86
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0529542109e5e084eb08e7da04389d81
+      internalID: 1571022182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 56
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf2d423f4e94241bd75c511d6333b6
+      internalID: 1500644580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 56
+        width: 149
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7e553201adbcd4a9866fa4796d26c6
+      internalID: -275902621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_5
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 56
+        width: 167
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0745b0e7d0178049923137a53f3055f
+      internalID: 1313661272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_6
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 56
+        width: 170
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c051d7034e5f574f8f083675a74526a
+      internalID: 309369112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_7
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 56
+        width: 170
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1901737fde30363418733e8bbe35b9eb
+      internalID: -1101070250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_8
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 56
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d3bc521fc4cf14d858e614708c86e3
+      internalID: -1585250823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_9
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 56
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c35f7877cfa9b47935bb2121de72cf
+      internalID: 1337660033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_10
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 56
+        width: 170
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a30ae7223e51e44a6afd0731a7be75
+      internalID: 1473255295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_11
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 56
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a186b0d5e9b645a23dfee26197e2d
+      internalID: -2015323098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_12
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 56
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c460a80fe29434ba57d1474d8d4182
+      internalID: -1374036524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_13
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 56
+        width: 170
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20180d89849c52c4ba917f06d75a09e8
+      internalID: -495557520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_14
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 56
+        width: 167
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038074435e45eb54292b76f301ef8d2d
+      internalID: 1056880695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_15
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 56
+        width: 169
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf043f838cc3e54d9f04d8f9b490cc3
+      internalID: 1168519563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_16
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 59
+        width: 167
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb34910669237e409695feda5045dca
+      internalID: -1280190632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_17
+      rect:
+        serializedVersion: 2
+        x: 4445
+        y: 62
+        width: 158
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b461fff0870e23e45bdabe09bea4f24f
+      internalID: 304077069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_18
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 65
+        width: 146
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02855caf253288e4694c7ab645c70c22
+      internalID: -724757896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_19
+      rect:
+        serializedVersion: 2
+        x: 4955
+        y: 59
+        width: 113
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc516e14e3960940a50b53d1d2ea0ca
+      internalID: -1714724876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_20
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 53
+        width: 77
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01103a46f3879e045bcee21973227020
+      internalID: 1499766569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_21
+      rect:
+        serializedVersion: 2
+        x: 5477
+        y: 50
+        width: 56
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ed6011d95eb78498062446bdd89297
+      internalID: -510296579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_22
+      rect:
+        serializedVersion: 2
+        x: 5735
+        y: 50
+        width: 56
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2733cd1619be2b448819b2db4edf23cc
+      internalID: 1375838159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss_Samurai_Intro_23
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 50
+        width: 56
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236e4292346312b419623008c02cbf3d
+      internalID: -1944107048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -158,7 +662,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Boss_Samurai_Intro_0: -1854341429
+      Boss_Samurai_Intro_1: 144570690
+      Boss_Samurai_Intro_10: 1473255295
+      Boss_Samurai_Intro_11: -2015323098
+      Boss_Samurai_Intro_12: -1374036524
+      Boss_Samurai_Intro_13: -495557520
+      Boss_Samurai_Intro_14: 1056880695
+      Boss_Samurai_Intro_15: 1168519563
+      Boss_Samurai_Intro_16: -1280190632
+      Boss_Samurai_Intro_17: 304077069
+      Boss_Samurai_Intro_18: -724757896
+      Boss_Samurai_Intro_19: -1714724876
+      Boss_Samurai_Intro_2: 1571022182
+      Boss_Samurai_Intro_20: 1499766569
+      Boss_Samurai_Intro_21: -510296579
+      Boss_Samurai_Intro_22: 1375838159
+      Boss_Samurai_Intro_23: -1944107048
+      Boss_Samurai_Intro_3: 1500644580
+      Boss_Samurai_Intro_4: -275902621
+      Boss_Samurai_Intro_5: 1313661272
+      Boss_Samurai_Intro_6: 309369112
+      Boss_Samurai_Intro_7: -1101070250
+      Boss_Samurai_Intro_8: -1585250823
+      Boss_Samurai_Intro_9: 1337660033
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
